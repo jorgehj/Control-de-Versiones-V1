@@ -15,9 +15,9 @@ public class ControlDeVersionesV1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-       int valor;
-       valor = 3;
-       System.out.println("Valor= "+valor);
+       Contador recuenta = new Contador();
+       recuenta.setCuenta(5);
+       System.out.println("Valor= "+recuenta.getCuenta());
     }
     
 }
