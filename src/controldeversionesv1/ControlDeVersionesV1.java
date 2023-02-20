@@ -16,7 +16,7 @@ public class ControlDeVersionesV1 {
     public static void main(String[] args) {
         // TODO code application logic here
        Contador recuenta = new Contador();
-       recuenta.setCuenta(8);
+       recuenta.setCuenta(9);
        System.out.println("Recuenta= "+recuenta.getCuenta());
     }
     
