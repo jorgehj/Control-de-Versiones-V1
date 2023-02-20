@@ -16,7 +16,7 @@ public class ControlDeVersionesV1 {
     public static void main(String[] args) {
         // TODO code application logic here
        int valor;
-       valor = 1;
+       valor = 2;
        System.out.println("Valor= "+valor);
     }
     
